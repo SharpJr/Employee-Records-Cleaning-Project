@@ -18,7 +18,7 @@ This project involves cleaning and organizing a dataset of employee records usin
 - Validated and cleaned email addresses and phone numbers
 - Handled missing or invalid data (e.g., salaries, bonuses, dates)
 - Filtered out terminated employees (optional)
-- Created new columns for analysis (e.g., total compensation)
+- Created new columns for analysis (e.g., total compensation,years of service)
 
 ## Dataset Overview
 
